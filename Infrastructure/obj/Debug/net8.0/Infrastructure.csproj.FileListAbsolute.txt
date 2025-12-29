@@ -13,3 +13,4 @@ C:\Windows\System32\skinet\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
 C:\Windows\System32\skinet\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 C:\Windows\System32\skinet\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Windows\System32\skinet\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Windows\System32\skinet\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json

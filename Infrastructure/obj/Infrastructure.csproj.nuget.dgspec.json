@@ -4,14 +4,14 @@
     "C:\\Windows\\System32\\skinet\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Windows\\System32\\skinet\\core\\Core.csproj": {
+    "C:\\Windows\\System32\\skinet\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Windows\\System32\\skinet\\core\\Core.csproj",
+        "projectUniqueName": "C:\\Windows\\System32\\skinet\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Windows\\System32\\skinet\\core\\Core.csproj",
+        "projectPath": "C:\\Windows\\System32\\skinet\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Windows\\System32\\skinet\\core\\obj\\",
+        "outputPath": "C:\\Windows\\System32\\skinet\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Windows\\System32\\skinet\\core\\Core.csproj": {
-                "projectPath": "C:\\Windows\\System32\\skinet\\core\\Core.csproj"
+              "C:\\Windows\\System32\\skinet\\Core\\Core.csproj": {
+                "projectPath": "C:\\Windows\\System32\\skinet\\Core\\Core.csproj"
               }
             }
           }
